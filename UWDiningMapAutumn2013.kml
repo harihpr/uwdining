@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>UW Dining Map Autumn 2013</name>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Burke Café</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.310587,47.660456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Court Cafe, Magnuson Health Sciences Center</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.30932652950287,47.6505333650458,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Dawg Bites</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.301511,47.653334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>H-bar</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.31173000000001,47.65326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Husky Grind @ Mercer Court</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.31706738471985,47.654689006039625,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Joe Haus</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.30352759361267,47.658085545228516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Mary Gates Hall Espresso</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.307481,47.654637,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Overpass Espresso</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.30913877487183,47.65106096909873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Parnassus</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.30645400000003,47.658211,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Public Grounds</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.31045305728912,47.657478520397056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Reboot</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.305587,47.653368,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>The Supreme Cup</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.311150431633,47.659109883628595,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Suzzallo Espresso</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.30860799999999,47.655608,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Think Tank @ Bagley Hall</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.30861306190491,47.65339898592588,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Tower Cafe @ UW Tower</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.31452733278275,47.66098507540053,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Husky Grind</name>
+			<description><![CDATA[Espresso]]></description>
+			<Point>
+				<coordinates>-122.31375955045223,47.655845299504406,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>District Market</name>
+			<description><![CDATA[Markets]]></description>
+			<Point>
+				<coordinates>-122.31361900000002,47.655824,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>Etc</name>
+			<description><![CDATA[Markets]]></description>
+			<Point>
+				<coordinates>-122.30544805526733,47.65498530867993,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>Ian's Domain</name>
+			<description><![CDATA[Markets]]></description>
+			<Point>
+				<coordinates>-122.30455799999999,47.66038,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>The Nook</name>
+			<description><![CDATA[Markets]]></description>
+			<Point>
+				<coordinates>-122.30363219976425,47.65794462937877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1095</styleUrl>
+			<name>Hot Dawgs</name>
+			<description><![CDATA[UW Street Food]]></description>
+			<Point>
+				<coordinates>-122.31014427116395,47.65572677322995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1095</styleUrl>
+			<name>Red Square BBQ</name>
+			<description><![CDATA[UW Street Food]]></description>
+			<Point>
+				<coordinates>-122.31015300000001,47.655642,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1095</styleUrl>
+			<name>Motosurf</name>
+			<description><![CDATA[UW Street Food]]></description>
+			<Point>
+				<coordinates>-122.31014700000003,47.655563,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>The 8, McMahon Hall</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.30363999999997,47.658029,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>By George @OUGL</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.31065690517426,47.65638730325184,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>Freshens Smoothies @OUGL</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.31026530265808,47.656517383314046,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>Cultivate @Elm Hall</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.31470704078674,47.65673056938194,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>Freshens Smoothies @IMA</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.30161249637604,47.653348396252426,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>Husky Den @HUB</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.3048847913742,47.655357491321425,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>Subway @HUB</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.30507254600525,47.65541530586265,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1081</styleUrl>
+			<name>Pagliacci Pizza @HUB</name>
+			<description><![CDATA[Pizza]]></description>
+			<Point>
+				<coordinates>-122.3050993680954,47.65528522305489,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>Local Point @Lander Hall</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.3146641254425,47.655675470505955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1081</styleUrl>
+			<name>Pagliacci Pizza @Lander Hall</name>
+			<description><![CDATA[Pizza]]></description>
+			<Point>
+				<coordinates>-122.31488943099976,47.65553093475303,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>Orin's Place @Paccar</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.30822145938873,47.658956324478794,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1081</styleUrl>
+			<name>Pagliacci Pizza @McMahon Hall</name>
+			<description><![CDATA[Pizza]]></description>
+			<Point>
+				<coordinates>-122.30340999999999,47.65812,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>The Rotunda</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.30999708175659,47.650826077541666,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1085</styleUrl>
+			<name>Vista Cafe</name>
+			<description><![CDATA[Restaurants and Cafes]]></description>
+			<Point>
+				<coordinates>-122.31343567371368,47.6517295008249,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1081'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1081-biz-restaurant-fastfood.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1085'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1095'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1095-biz-shopping.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1101'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1101-biz-supermarket.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-991'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

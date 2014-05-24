@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!header("access-control-allow-origin: *");>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>UW Dining</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+      }
+      #map-canvas {
+      	height: 100%;
+      	width: 75%;
+      	float: left;
+      }
+      #sidebar {
+      	height: 100%;
+      	width: 25%;
+      	float: right;
+      }
+    </style>
+    <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="geoxml3.js"></script>
+    <script>
+    	function showMap(places){
+    		
+    		console.log(myParser.docs[0].placemarks);
+    		
+    		for(var i=0; i<myParser.docs[0].placemarks.length; i++){
+    			if(myParser.docs[0].placemarks[i].description == places){
+    				myParser.docs[0].placemarks[i].marker.setVisible(true);
+    			}
+    			else{
+    				myParser.docs[0].placemarks[i].marker.setVisible(false);
+    			}
+    		};
+    		
+    		return false;
+    	};
+    	
+    	function useData(docs){
+    		myParser.hideDocument(docs[0]);
+		};
+    	
+		function initialize() {
+			
+  			var uwredsquare = new google.maps.LatLng(47.655878,-122.309507);
+  			var mapOptions = {
+    			zoom: 12,
+    			center: uwredsquare
+  			}
+
+  			var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+  			myParser = new geoXML3.parser({map: map, afterParse: useData, processStyles: true});
+  			myParser.parse('UWDiningMapAutumn2013.kml');
+        };
+        	
+		google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+  </head>
+  <body>
+    <div id="map-canvas">
+    </div>
+    <div id="sidebar">
+    	<ul>
+    		<li>
+    			<a id="Espresso" href="#" onclick="showMap(this.id)">Espresso</a>
+    		</li>
+    		<li>
+    			<a id="UW Street Food" href="#" onclick="showMap(this.id)">UW Street Food</a>
+    		</li>
+    		<li>
+    			<a id="Markets" href="#" onclick="showMap(this.id)">Markets</a>
+    		</li>
+    		<li>
+    			<a id="Restaurants and Cafes" href="#" onclick="showMap(this.id)">Restaurants and Cafes</a>
+    		</li>
+    		<li>
+    			<a id="Pizza" href="#" onclick="showMap(this.id)">Pizza</a>
+    		</li>
+    	</ul>
+    </div>
+  </body>
+</html>

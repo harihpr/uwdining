@@ -37,17 +37,33 @@
     <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
     <script src="geoxml3.js"></script>
     <script>
+    
+    	function displayMarkers(places,setVisibility){
+    		for(var i=0; i<myParser.docs[0].placemarks.length; i++) {
+				if(myParser.docs[0].placemarks[i].description == places && setVisibility == true) {
+					myParser.docs[0].placemarks[i].marker.setVisible(true);
+				}
+				else {
+					if(myParser.docs[0].placemarks[i].description == places && setVisibility == false) {
+						myParser.docs[0].placemarks[i].marker.setVisible(false);
+					}
+					else {
+						myParser.docs[0].placemarks[i].marker.setVisible(false);
+					}
+				};
+			};
+    	};
+    	
     	function showMap(places){
     		
-    		for(var i=0; i<myParser.docs[0].placemarks.length; i++){
+    		/*for(var i=0; i<myParser.docs[0].placemarks.length; i++){
 				if(myParser.docs[0].placemarks[i].description == places){
 					myParser.docs[0].placemarks[i].marker.setVisible(true);
-					//console.log(myParser.docs[0].placemarks[i].marker);
 				}
 				else{
 					myParser.docs[0].placemarks[i].marker.setVisible(false);
 				}
-			};
+			};*/
 			
 			var listElement = document.getElementById('UW Dining List').childNodes;
 			
@@ -55,9 +71,17 @@
 				if(listElement[i].nodeName == 'LI') {
 					if(listElement[i].id == places && document.getElementById(listElement[i].id).childNodes[3].style.display == 'none') {
 						document.getElementById(listElement[i].id).childNodes[3].style = "display:block";
+						displayMarkers(places,true);
 					}
-					else
-						document.getElementById(listElement[i].id).childNodes[3].style = "display:none";
+					else {
+						if(listElement[i].id == places && document.getElementById(listElement[i].id).childNodes[3].style.display == 'block') {
+							document.getElementById(listElement[i].id).childNodes[3].style = "display:none";
+							displayMarkers(places,false);
+						}
+						else {
+							document.getElementById(listElement[i].id).childNodes[3].style = "display:none";
+						}
+					};
 				}
 			}
 			
@@ -69,13 +93,11 @@
     		var allPlaces = docs[0].placemarks;
     		    		
     		var listElement = document.getElementById('UW Dining List').childNodes;
-    		//console.log(listElement);
     		
     		for (i=0;i<listElement.length;i++) {
     			tempPlace = listElement[i].id;
     			
     			if(listElement[i].nodeName == 'LI'){
-    				//console.log(tempPlace);
 	    			var placeListUl = document.createElement('ul');
 	    			var placeListId = tempPlace + " list"; 
 	    			placeListUl.setAttribute("id",placeListId);
@@ -83,13 +105,10 @@
 	    		
 	    			for(var j=0;j<allPlaces.length;j++){
 	    				placeList += "<li>";
-	    				//placeList += '<li>';
 	    				if(allPlaces[j].description == tempPlace){
 	    					placeList += allPlaces[j].name;
-	    					//console.log(allPlaces[j].description);
 	    				}
 	    				placeList += "</li>";
-	    				//placeList += '</li>';
 	    			};
 	    			
 	    			placeListUl.innerHTML = placeList;
@@ -110,8 +129,6 @@
 
   			myParser = new geoXML3.parser({map: map, afterParse: useData, processStyles: true});
   			myParser.parse('UWDiningMapAutumn2013.kml');
-  			
-  			//createList();
         };
         	
 		google.maps.event.addDomListener(window, 'load', initialize);

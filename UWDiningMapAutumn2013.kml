@@ -3,338 +3,684 @@
 	<Document>
 		<name>UW Dining Map Autumn 2013</name>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Burke Café</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Burke Café</name>
+			<description>
+				<![CDATA[
+					<h3>Burke Café</h3>
+					<p><em>Burke Museum of Natural History and Culture</em></p>
+					<p>Burke Café, famous for its 18th century French pine paneling and inviting atmosphere, is a perfect place to relax, study or socialize. The café features an assortment of pastries, sandwiches and salads, as well as a variety of juices, teas and coffee and espresso drinks. Members of the Burke Museum receive a ten percent discount on any café purchase.<hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>Phone: </b>206-543-7737<br />
+					<b>Email: </b>ttrum@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.310587,47.660456,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Court Cafe, Magnuson Health Sciences Center</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Court Cafe, Magnuson Health Sciences Center</name>
+			<description>
+				<![CDATA[
+					<h3>Court Café</h3>
+					<p><em> Magnuson Health Sciences Center E-court </em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Larry Connor<br />
+					<b>Phone: </b>206-685-1226<br />
+					<b>Email: </b>larryc2@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30932652950287,47.6505333650458,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Dawg Bites</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Dawg Bites</name>
+			<description>
+				<![CDATA[
+					<h3>Dawg Bites</h3>
+					<p><em>Intramural Activities Building (IMA)</em></p>
+					<p>Phone: 206-616-2917</p>
+					<p>Dawg Bites, a smoothie bar located inside the Intramural Activities Building (IMA) on Montlake Boulevard, is a great place to get refreshed after a workout. Choose from a large selection of fresh grab-and-go salads and sandwiches, cold drinks, espresso, and of course, Freshëns blended fruit smoothies.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>	Phone: </b>206-543-7737<br />
+					<b>Email: </b>ttrum@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.301511,47.653334,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>H-bar</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_H-bar</name>
+			<description>
+				<![CDATA[
+					<h3>H-bar</h3>
+					<p><em>Physics-Astronomy Building</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>Phone: </b>206-616-2739<br />
+					<b>Email: </b>uwcafe@washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31173000000001,47.65326,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Husky Grind @ Mercer Court</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Husky Grind @ Mercer Court</name>
+			<description>
+				<![CDATA[
+					<h3>Husky Grind at Mercer Court</h3>
+					<p>The newest addition to our family of cafés features some serious coffee equipment, like our Alpha Dominche Steampunk. Cream puffs are filled to order. The panini, baguette sandwiches and satisfying soups will make you want to stay for more than a cup of great coffee.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Joseph Maurey<br />
+					<b>Café: </b>206-221-2398<br />
+					<b>Email: </b>josepm2@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31706738471985,47.654689006039625,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Joe Haus</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Joe Haus</name>
+			<description>
+				<![CDATA[
+					<h3>Joe Haus</h3>
+					<p><em>McMahon Hall</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>John Mehl<br />
+					<b>Office: </b>206-616-8026<br />
+					<b>Email: </b>jmehl11@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30352759361267,47.658085545228516,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Mary Gates Hall Espresso</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Mary Gates Hall Espresso</name>
+			<description>
+				<![CDATA[
+					<h3>Mary Gates Hall Espresso</h3>
+					<p><em>Mary Gates Hall</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>Phone: </b>206-221-6651<br />
+					<b>Email: </b>uwcafe@washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.307481,47.654637,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Overpass Espresso</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Overpass Espresso</name>
+			<description>
+				<![CDATA[
+					<h3>Overpass Espresso</h3>
+					<p><em>Magnuson Health Sciences Center T-wing, 4th Floor</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Larry Connor<br />
+					<b>Phone: </b>206-616-7568<br />
+					<b>Email: </b>larryc2@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30913877487183,47.65106096909873,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Parnassus</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Parnassus</name>
+			<description>
+				<![CDATA[
+					<h3>Parnassus</h3>
+					<p><em>Art Building</em></p>
+					<p>This funky, artsy café nestled in the cozy basement of the Art Building has provided coffee and goodies to campus patrons since the 1950s. The recently revitalized outdoor courtyard combines earthy with industrial—a charming space to relax and chat.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>Phone: </b>206-543-7737<br />
+					<b>Email: </b>uwcafe@washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30645400000003,47.658211,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Public Grounds</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Public Grounds</name>
+			<description>
+				<![CDATA[
+					<h3>Public Grounds</h3>
+					<p><em>Parrington Hall</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>Phone: </b>206-221-7051<br />
+					<b>Email: </b>uwcafe@washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31045305728912,47.657478520397056,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Reboot</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Reboot</name>
+			<description>
+				<![CDATA[
+					<h3>Reboot</h3>
+					<p><em>Paul G. Allen Center for Computer Science &amp; Engineering</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>Phone: </b>206-616-8860<br />
+					<b>Email: </b>uwcafe@washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.305587,47.653368,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>The Supreme Cup</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_The Supreme Cup</name>
+			<description>
+				<![CDATA[
+					<h3>The Supreme Cup</h3>
+					<p><em>William H. Gates Hall</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>Phone: </b>206-616-9949<br />
+					<b>Email: </b>uwcafe@washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.311150431633,47.659109883628595,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Suzzallo Espresso</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Suzzallo Espresso</name>
+			<description>
+				<![CDATA[
+					<h3>Suzzallo Espresso</h3>
+					<p><em>Suzzallo Library</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>Phone: </b>206-616-3327<br />
+					<b>Email: </b>uwcafe@washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30860799999999,47.655608,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Think Tank @ Bagley Hall</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Think Tank @ Bagley Hall</name>
+			<description>
+				<![CDATA[
+					<h3>Think Tank</h3>
+					<p><em>Bagley Hall</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>Phone: </b>206-543-7977<br />
+					<b>Email: </b>uwcafe@washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30861306190491,47.65339898592588,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Tower Cafe @ UW Tower</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Tower Cafe @ UW Tower</name>
+			<description>
+				<![CDATA[
+					<h3>Tower Café</h3>
+					<p><em>UW Tower</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Tracy Trumbull<br />
+					<b>Phone: </b>206-616-5328<br />
+					<b>Email: </b>uwcafe@washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31452733278275,47.66098507540053,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-991</styleUrl>
-			<name>Husky Grind</name>
-			<description><![CDATA[Espresso]]></description>
+			<styleUrl>#Espresso</styleUrl>
+			<name>Espresso_Husky Grind</name>
+			<description>
+				<![CDATA[
+					<h3>Husky Grind at District Market</h3>
+					<p>Conveniently located inside District Market on the corner of NE Campus Parkway and The Ave, this café features traditional pour-over coffee 
+					methods in addition a full espresso menu. Treat yourself to an artisanal Parisian Star dessert and sip a handcrafted coffee or grab a cup while you shop at the market.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Heidi Antush<br />
+					<b>Phone: </b>206-543-5367<br /></p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31375955045223,47.655845299504406,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1101</styleUrl>
-			<name>District Market</name>
-			<description><![CDATA[Markets]]></description>
+			<styleUrl>#Markets</styleUrl>
+			<name>Markets_District Market</name>
+			<description>
+				<![CDATA[
+					<h3>District Market</h3>
+					<p><em>Alder Hall, corner of NE Campus Parkway and University Way NE</em></p>
+					<p>District Market is a neighborhood market with fresh produce, meats and seafood, groceries, breads and baked goods, a full-service deli with chef-prepared side dishes, salads and entrées, and a rotating menu of hot foods ready to take home and eat. District Market also includes <a title="Husky Grind" href="http://www.hfs.washington.edu/huskygrind/">Husky Grind</a>, a full café with espresso and desserts, and both indoor seating and a convenient walk-up window for street access.</p>
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Heidi Antush<br />
+					<b>Phone: </b>206-221-7796<br />
+					<b>Email: </b>bowerh@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31361900000002,47.655824,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1101</styleUrl>
-			<name>Etc</name>
-			<description><![CDATA[Markets]]></description>
+			<styleUrl>#Markets</styleUrl>
+			<name>Markets_Etc</name>
+			<description>
+				<![CDATA[
+					<h3>Etc.</h3>
+					<p><em>Husky Union Building (HUB)</em></p>
+					<p>Etc. features a full espresso bar and offers a large selection of sandwiches, salads, sushi and other freshly packaged meals for students on the run. You can also choose from a variety of cold bottled drinks, healthy snacks (like whole fruit, energy bars and trail mix), chips, candy, ice cream, school supplies, and select UW gear.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager:</b> Joseph Maurey<br />
+					<b>Phone:</b> 206-221-3617<br />
+					<b>Email: </b>josepm2@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30544805526733,47.65498530867993,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1101</styleUrl>
-			<name>Ian's Domain</name>
-			<description><![CDATA[Markets]]></description>
+			<styleUrl>#Markets</styleUrl>
+			<name>Markets_Ian's Domain</name>
+			<description>
+				<![CDATA[
+					<h3>Ian's Domain</h3>
+					<p><em>McCarty Hall</em></p>
+					<p>Ian's Domain is an internet café with an espresso bar and market selling a wide variety of items, such as groceries, grab-and-go food, household and school supplies. That's just the tip of the iceberg, however. Ian's has Wii and PS3 consoles with the latest games free for students to checkout, plus 12 computers with 24" monitors for surfing and gaming.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager:</b> Joseph Maurey<br />
+					<b>Phone:</b> 206-221-3617<br />
+					<b>Email: </b>josepm2@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30455799999999,47.66038,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1101</styleUrl>
-			<name>The Nook</name>
-			<description><![CDATA[Markets]]></description>
+			<styleUrl>#Markets</styleUrl>
+			<name>Markets_The Nook</name>
+			<description>
+				<![CDATA[
+					<h3>The Nook</h3>
+					<p><em>McMahon Hall</em></p>
+					<p>Located just outside The 8 in McMahon, the Nook features all the necessities for on-campus living, from snacks and drinks to school supplies and laundry detergent.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager:</b> Joseph Maurey<br />
+					<b>Phone:</b> 206-221-3617<br />
+					<b>Email: </b>josepm2@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30363219976425,47.65794462937877,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1095</styleUrl>
-			<name>Hot Dawgs</name>
-			<description><![CDATA[UW Street Food]]></description>
+			<styleUrl>#UWStreetFood</styleUrl>
+			<name>UWStreetFood_Siganos</name>
+			<description>
+				<![CDATA[
+					<h3>UW Street Food</h3>
+					<p>UW Street Food is a collection of UW food trucks created to bring the authentic, affordable and tasty street food experience to campus. Look for us on Red Square, and check back here often for menu updates and specials.</p>
+					<h4>Síganos</h4>
+					<p>UW's very own taco truck! Enjoy street tacos and tortas topped with savory chicken tinga, pork carnitas, carne asada beef and vegan gardien chicken. We have other south-of-the-border offerings like chips and salsa, black beans, spicy tots with chipotle ranch dressing and churros.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Katherine Dunsmoor<br />
+					<b>Phone: </b>206-685-1850<br />
+					<b>Email: </b>kduns13@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31014427116395,47.65572677322995,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1095</styleUrl>
-			<name>Red Square BBQ</name>
-			<description><![CDATA[UW Street Food]]></description>
+			<styleUrl>#UWStreetFood</styleUrl>
+			<name>UWStreetFood_Red Square BBQ and Hot Dawgs</name>
+			<description>
+				<![CDATA[
+					<h3>UW Street Food</h3>
+					<p>UW Street Food is a collection of UW food trucks created to bring the authentic, affordable and tasty street food experience to campus. Look for us on Red Square, and check back here often for menu updates and specials.</p>
+					<h4>Red Square BBQ &amp; Hot Dawgs</h4>
+					<p>Barbecue sandwiches and sliders with house-smoked savory barbecued meats. We've also got all-beef kosher dogs, Field Roast vegan sausage and Italian chicken sausage with a variety of fresh, signature relishes and toppings.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Katherine Dunsmoor<br />
+					<b>Phone: </b>206-685-1850<br />
+					<b>Email: </b>kduns13@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31015300000001,47.655642,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1095</styleUrl>
-			<name>Motosurf</name>
-			<description><![CDATA[UW Street Food]]></description>
+			<styleUrl>#UWStreetFood</styleUrl>
+			<name>UWStreetFood_Motosurf</name>
+			<description>
+				<![CDATA[
+					<h3>UW Street Food</h3>
+					<p>UW Street Food is a collection of UW food trucks created to bring the authentic, affordable and tasty street food experience to campus. Look for us on Red Square, and check back here often for menu updates and specials.</p>
+					<h4>Motosurf</h4>
+					<p>Full-plate lunches and tasty bites of Hawaiian, Korean and Pacific island street foods like Spam musubi, Kahlua pig sliders, Korean barbecued chicken and mac salad.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Katherine Dunsmoor<br />
+					<b>Phone: </b>206-685-1850<br />
+					<b>Email: </b>kduns13@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31014700000003,47.655563,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>The 8, McMahon Hall</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_The 8, McMahon Hall</name>
+			<description>
+				<![CDATA[
+					<h3>The 8</h3>
+					<p><em>McMahon Hall, Lower Level</em></p>
+					<p>The 8 at McMahon Hall is a collection of dining destinations under one roof with cozy booths and great views of Lake Washington: Broiler Zone (a gourmet burger concept), Wild Greens (a deli and salad bar), award-winning Pagliacci, Abundo (which offers a rotating menu of regional and international dishes, a pasta bar and satisfying breakfasts), Joe Haus (an espresso bar with homemade desserts), and The Nook (an express market).</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>John Mehl<br />
+					<b>Phone: </b>206-616-8026<br />
+					<b>Email: </b>jmehl11@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30363999999997,47.658029,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>By George @OUGL</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_By George @OUGL</name>
+			<description>
+				<![CDATA[
+					<h3>By George</h3>
+					<p><em>Odegaard Undergraduate Library, ground floor</em></p>
+					<p>Centrally located at the western entrance of Red Square, on the ground floor of Odegaard Undergraduate Library, By George serves quick breakfast options such as pastries and bagels. Lunch features <a title="Freshëns" href="/freshens/">Freshëns</a> smoothies and frozen yogurt, and an expanded sandwich selection including more hot choices like meatball subs, fresh soups and Starbucks beverages.</p>
+					<p>By George also has special late-night hours from midterms to finals every quarter, so students don’t have to run off campus for that caffeine boost while studying.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Katherine Dunsmoor<br />
+					<b>Phone: </b>206-685-1850<br />
+					<b>Email: </b>kduns13@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31065690517426,47.65638730325184,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>Freshens Smoothies @OUGL</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_Freshens Smoothies @OUGL</name>
+			<description>
+				<![CDATA[
+					<h3>Freshëns Smoothies &amp; Frozen Yogurt</h3>
+					<p><em>Located at By George and Dawg Bites</em></p>
+					<p>Our classic fresh blended smoothies are made with real fruit, no high fructose corn syrup, and available in dairy and nondairy options. Plus, they're fortified with 100% of vitamins A, C, D, E and 25% calcium.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Katherine Dunsmoor (By George)<br />
+					<b>Phone: </b>206-685-1850<br />
+					<b>Email: </b>kduns13@u.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31026530265808,47.656517383314046,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>Cultivate @Elm Hall</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_Cultivate @Elm Hall</name>
+			<description>
+				<![CDATA[
+					<h3>Cultivate</h3>
+					<p><em>Elm Hall: NE Campus Parkway</em></p>
+					<p>Located on the street level of Elm Hall, Cultivate is a special destination for students, faculty and staff who want to experience full-service dining with a nod to locally sourced fresh food and a community feel. The menu celebrates new discoveries and memories of food, and features a Pacific Northwest twist on regional comforts. Try our savory signature house-smoked pastrami or shrimp po'boy sandwich. Vegetarians can revel in the fresh, crisp tastes of our seasonal market salad, veggie quesadillas or the mac bar.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>James Windau, Chef de Cuisine<br />
+					<b>Phone: </b>206-221-1373<br />
+					<b>Email: </b>jwind@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31470704078674,47.65673056938194,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>Freshens Smoothies @IMA</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_Freshens Smoothies @IMA</name>
+			<description>
+				<![CDATA[
+					<h3>Freshëns Smoothies &amp; Frozen Yogurt</h3>
+					<p><em>Located at By George and Dawg Bites</em></p>
+					<p>Our classic fresh blended smoothies are made with real fruit, no high fructose corn syrup, and available in dairy and nondairy options. Plus, they're fortified with 100% of vitamins A, C, D, E and 25% calcium.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Katherine Dunsmoor (By George)<br />
+					<b>Phone: </b>206-685-1850<br />
+					<b>Email: </b>kduns13@u.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30161249637604,47.653348396252426,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>Husky Den @HUB</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_Husky Den @HUB</name>
+			<description>
+				<![CDATA[
+					<h3>Husky Den</h3>
+					<p><em>Husky Union Building (HUB)</em></p>
+					<p>Located inside the Husky Union Building (HUB), Husky Den is a food court with eight restaurants and a market. Customers will enjoy popular Husky Den restaurants, all of which have completely new menus and expanded choices this year.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Dale Askew<br />
+					<b>Phone: </b>206-221-3361<br />
+					<b>Email: </b>daskew1@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.3048847913742,47.655357491321425,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>Subway @HUB</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_Subway @HUB</name>
+			<description>
+				<![CDATA[
+					<h3>SUBWAY</h3>
+					<p><em>Husky Union Building (HUB)</em></p>
+					<p>Whatever you're in the mood for, SUBWAY has a wide variety of subs, salads and sides to choose from. And every one of our subs is made fresh in front of you, exactly the way <strong>you</strong> want it!</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Laura Allen<br />
+					<b>Phone: </b>206-543-8494<br />
+					<b>Email: </b>lallen3@u.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30507254600525,47.65541530586265,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1081</styleUrl>
-			<name>Pagliacci Pizza @HUB</name>
-			<description><![CDATA[Pizza]]></description>
+			<styleUrl>#Pizza</styleUrl>
+			<name>Pizza_Pagliacci Pizza @HUB</name>
+			<description>
+				<![CDATA[
+					<p>Call 206-726-1717 (external phone number—please use area code). The 8 and Local Point cannot accept phone orders.</p>
+					<p>Pagliacci accepts UW budget numbers for catering orders. And, students living on campus can use their HFS Dining Account for Pagliacci orders if they order in person at The 8 or Local Point.</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.3050993680954,47.65528522305489,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>Local Point @Lander Hall</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_Local Point @Lander Hall</name>
+			<description>
+				<![CDATA[
+					<h3>Local Point</h3>
+					<p><em>Lander Hall</em></p>
+					<p>Local Point is the place where you can meet friends, hit the books, watch a Husky game on the big TV or just socialize. Get comfy with familiar foods that feel like home or push your boundaries and try something different. Hang out in Local Point’s gathering spaces designed with community and shared activities in mind. Local Point isn’t just a place to eat; it’s a place to meet.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Andrea Yeckel<br />
+					<b>Phone: </b>206-543-6975<br />
+					<b>Email: </b>bensoa3@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.3146641254425,47.655675470505955,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1081</styleUrl>
-			<name>Pagliacci Pizza @Lander Hall</name>
-			<description><![CDATA[Pizza]]></description>
+			<styleUrl>#Pizza</styleUrl>
+			<name>Pizza_Pagliacci Pizza @Lander Hall</name>
+			<description>
+				<![CDATA[
+					<p>Call 206-726-1717 (external phone number—please use area code). The 8 and Local Point cannot accept phone orders.</p>
+					<p>Pagliacci accepts UW budget numbers for catering orders. And, students living on campus can use their HFS Dining Account for Pagliacci orders if they order in person at The 8 or Local Point.</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31488943099976,47.65553093475303,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>Orin's Place @Paccar</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_Orin's Place @Paccar</name>
+			<description>
+				<![CDATA[
+					<h3>Orin's Place</h3>
+					<p><em>Paccar Hall</em></p>
+					<p>Orin’s Place serves breakfast, lunch and dinner and features new lunch and dinner specials every day. We also serve toasted sandwiches, soups, Starbucks coffees, pastries, cold drinks and fresh grab-and-go sandwiches and salads.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Larry Connor<br />
+					<b>Phone: </b>206-616-7623<br />
+					<b>Email: </b>orinsplacecatering@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30822145938873,47.658956324478794,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1081</styleUrl>
-			<name>Pagliacci Pizza @McMahon Hall</name>
-			<description><![CDATA[Pizza]]></description>
+			<styleUrl>#Pizza</styleUrl>
+			<name>Pizza_Pagliacci Pizza @McMahon Hall</name>
+			<description>
+				<![CDATA[
+					<p>Call 206-726-1717 (external phone number—please use area code). The 8 and Local Point cannot accept phone orders.</p>
+					<p>Pagliacci accepts UW budget numbers for catering orders. And, students living on campus can use their HFS Dining Account for Pagliacci orders if they order in person at The 8 or Local Point.</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30340999999999,47.65812,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>The Rotunda</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_The Rotunda</name>
+			<description>
+				<![CDATA[
+					<h3>The Rotunda</h3>
+					<p><em>Magnuson Health Sciences Center I-court</em></p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Larry Connor<br />
+					<b>Phone: </b>206-616-2764<br />
+					<b>Email: </b>larryc2@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.30999708175659,47.650826077541666,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#icon-1085</styleUrl>
-			<name>Vista Cafe</name>
-			<description><![CDATA[Restaurants and Cafes]]></description>
+			<styleUrl>#RestaurantsandCafes</styleUrl>
+			<name>RestaurantsandCafes_Vista Cafe</name>
+			<description>
+				<![CDATA[
+					<h3>Vista Café</h3>
+					<p><em>William H. Foege Building</em></p>
+					<p>Vista Café has an all-new lunch menu featuring healthy Asian rice bowls and banh mi sandwiches. Take in gorgeous views of Portage Bay and the Montlake Cut while enjoying lunch or a hand-crafted espresso and an artisan pastry.</p><hr />
+					<h4>Contact Information</h4>
+					<p><b>Manager: </b>Larry Connor<br />
+					<b>Phone: </b>206-616-7623<br />
+					<b>Email: </b>larryc2@hfs.washington.edu</p>
+				]]>
+			</description>
 			<Point>
 				<coordinates>-122.31343567371368,47.6517295008249,0.0</coordinates>
 			</Point>
 		</Placemark>
-		<Style id='icon-1081'>
+		<Style id='Pizza'>
 			<IconStyle>
 				<scale>1.1</scale>
 				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/1081-biz-restaurant-fastfood.png</href>
+					<href>map_icons/Pizza.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id='icon-1085'>
+		<Style id='RestaurantsandCafes'>
 			<IconStyle>
 				<scale>1.1</scale>
 				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+					<href>map_icons/RestaurantsandCafes.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id='icon-1095'>
+		<Style id='UWStreetFood'>
 			<IconStyle>
 				<scale>1.1</scale>
 				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/1095-biz-shopping.png</href>
+					<href>map_icons/UWStreetFood.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id='icon-1101'>
+		<Style id='Markets'>
 			<IconStyle>
 				<scale>1.1</scale>
 				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/1101-biz-supermarket.png</href>
+					<href>map_icons/Markets.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id='icon-991'>
+		<Style id='Espresso'>
 			<IconStyle>
 				<scale>1.1</scale>
 				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+					<href>map_icons/Espresso.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
